@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/comprobantes.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/CerrarSesionServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/configuracion.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/dao/NegocioDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/NegocioServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/registro.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/historial.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/modelo/Comprobante.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/modelo/Negocio.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/modelo/DetalleComprobante.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/ComprobanteServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/clientes.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/ClienteServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/css/login.css</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/login.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/verComprobante.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/reportes.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/configuracionInicial.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/modelo/Usuario.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/util/PruebaConexion.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/LoginServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/modelo/Cliente.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/dao/ComprobanteDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/controlador/RegistroServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/config/Conexion.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/usuarios.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/sunat.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/dashboard.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/web/css/estilos.css</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/FactuStart/src/java/dao/DetalleComprobanteDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,107 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f4f7fb;
+}
+
+.login-container{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.login-card{
+    width:330px;
+    background:white;
+    border-radius:12px;
+    box-shadow:0 8px 25px rgba(0,0,0,0.15);
+    overflow:hidden;
+}
+
+.login-header{
+    background:#08142d;
+    color:white;
+    text-align:center;
+    padding:25px 20px;
+}
+
+.login-header h2{
+    margin:8px 0 5px;
+}
+
+.login-header p{
+    font-size:12px;
+    margin:0;
+}
+
+.icono{
+    font-size:30px;
+}
+
+.login-form{
+    padding:25px;
+}
+
+.login-form label{
+    font-size:13px;
+    font-weight:bold;
+    display:block;
+    margin-bottom:6px;
+}
+
+.login-form input{
+    width:100%;
+    padding:11px;
+    margin-bottom:18px;
+    border:1px solid #cbd5e1;
+    border-radius:7px;
+    box-sizing:border-box;
+}
+
+.recuperar{
+    text-align:right;
+    margin-bottom:15px;
+}
+
+.recuperar a{
+    font-size:12px;
+    color:#08142d;
+    text-decoration:none;
+}
+
+.btn-login{
+    width:100%;
+    padding:12px;
+    background:#08142d;
+    color:white;
+    border:none;
+    border-radius:7px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.btn-registro{
+    display:block;
+    text-align:center;
+    margin-top:18px;
+    padding:12px;
+    border:2px solid #08142d;
+    border-radius:7px;
+    color:#08142d;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.error{
+    color:red;
+    font-size:13px;
+    text-align:center;
+}
+
+.footer-text{
+    margin-top:20px;
+    font-size:12px;
+    color:#8a94a6;
+}
